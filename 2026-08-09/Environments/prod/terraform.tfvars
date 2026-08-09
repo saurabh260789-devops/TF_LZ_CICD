@@ -1,0 +1,9 @@
+location = "eastus2"
+rg_name = "rg-prod-example"
+vnet_name = "vnet-prod-example"
+vnet_address_space = ["10.2.0.0/16"]
+subnet_name = "subnet-prod"
+subnet_prefixes = ["10.2.1.0/24"]
+admin_username = "azureuser"
+admin_password = "ChangeMeProd123!"
+tags = { environment = "prod" }
