@@ -1,6 +1,6 @@
 location = "eastus"
 rg_name = "rg-dev-test"
-vnet_name = "vnet-dev-example"
+vnet_name = "vnet-dev-Test"
 vnet_address_space = ["10.1.0.0/16"]
 subnet_name = "subnet-dev"
 subnet_prefixes = ["10.1.1.0/24"]
