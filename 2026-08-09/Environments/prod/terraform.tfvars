@@ -1,5 +1,5 @@
 location = "eastus2"
-rg_name = "gemini"
+rg_name = "Test3"
 vnet_name = "vnet-gemini"
 vnet_address_space = ["10.2.0.0/16"]
 subnet_name = "subnet-gemini"
