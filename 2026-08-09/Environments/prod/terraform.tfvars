@@ -1,6 +1,6 @@
 location = "eastus2"
-rg_name = "Test3"
-vnet_name = "vnet-gemini"
+rg_name = "gemini"
+vnet_name = "vnet-prod-example"
 vnet_address_space = ["10.2.0.0/16"]
 subnet_name = "subnet-gemini"
 subnet_prefixes = ["10.2.1.0/24"]
