@@ -1,4 +1,4 @@
-location = "eastus"
+location = "Westus"
 rg_name = "rg-dev-test"
 vnet_name = "vnet-dev-Test"
 vnet_address_space = ["10.2.0.0/16"]
